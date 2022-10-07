@@ -1,2 +1,24 @@
 1.feature-master
 1.feature-A
+
+Git error: "Please make sure you have the correct access ...https://stackoverflow.com › questions › git-error-please...
+19-Sept-2014 — Git error: "Please make sure you have the correct access rights and the repository exists" · 1 · Using Shell(or Git Bash in Windows) to create SSH ...
+30 answers
+ 
+·
+ 
+Top answer: 
+Your git URL might have changed. Change the URL in the local directory by using the following ...
+
+Could not read from remote repository. Please make sure you ...
+
+13 Jan 2021
+git pull Please make sure you have the correct access rights ...
+
+26 Feb 2018
+Git : fatal: Could not read from remote repository. Please make ...
+6 May 2015
+git - Canot push to remote repo - "Please make sure you have ...
+5 Jul 2017
+More results from stackoverflow.com
+You visited this page on 7/10/22.
