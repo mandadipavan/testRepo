@@ -1,3 +1,16 @@
 1.feature-B
 1.feature-master
 1.feature-A
+
+
+Similar issue:
+
+I gave passphrase when Git-cloned using SSH URL for git.
+So this error now shows up, each time I opened VS Code on Windows 10
+
+Below fixed the issue:
+
+1 . Run the below command in CMD
+
+setx SSH_ASKPASS "C:\Program Files\Git\mingw64\libexec\git-core\git-gui--askpass"
+setx DISPLAY needs-to-be-defined
